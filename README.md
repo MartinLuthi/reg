@@ -27,7 +27,7 @@ A Python library for analyzing and visualizing control systems (automatic regula
 ### Install Dependencies
 
 ```bash
-pip install numpy scipy matplotlib
+pip install -r requirements.txt
 ```
 
 ## Quick Start
